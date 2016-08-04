@@ -12,5 +12,9 @@ color:
     - '#E376B7'
 layout_spectrum: 0.012149208225309849
 name: MUX
+navigation:
+  - name: Partners
+    url: www.meetroo.nl
+    type: external
 title: Meetroo User eXperience
 description: get your work done

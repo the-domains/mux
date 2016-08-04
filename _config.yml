@@ -1,0 +1,14 @@
+layout_spectrum: 0.012149208225309849
+typography_spectrum: 0.2562793761026114
+color:
+  brandStrength: 0.5760185460094362
+  lightness: 0.4231378026306629
+  saturation: 0.12422539037652314
+  rhythmicContrast: 0.8355092615820467
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: MUX

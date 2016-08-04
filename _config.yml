@@ -18,5 +18,8 @@ navigation:
   - name: Partners
     url: www.meetroo.nl
     type: external
+  - name: Partners
+    url: 'http://meetroo.nl/partners'
+    type: external
 title: Meetroo User eXperience
 description: get your work done

@@ -16,9 +16,6 @@ logo: >-
 name: MUX
 navigation:
   - name: Partners
-    url: www.meetroo.nl
-    type: external
-  - name: Partners
     url: 'http://meetroo.nl/partners'
     type: external
 title: Meetroo User eXperience
